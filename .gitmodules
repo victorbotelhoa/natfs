@@ -1,0 +1,3 @@
+[submodule "depends/filesystem"]
+	path = depends/filesystem
+	url = https://github.com/victorbotelhoa/filesystem.git
